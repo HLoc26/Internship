@@ -76,16 +76,15 @@ Không có khó khăn gì trong quá trình làm bài lab
 ## 📋 Kế hoạch ngày mai
 
 ### Priority Tasks
-- [x] **High**: Hoàn thành bài lab
-- [x] **Low**: Ghi chép lại các bước thực hiện
+- [ ] **High**: Tìm hiểu các câu hỏi trong phần Questions & Curiosities
+- [ ] **Medium**: Tìm hiểu về Lambda@Edge
 
 ### Learning Goals
-- [x] Kiến thức về Serverless, về Lambda function
-- [x] Follow tutorial bài lab
+- [ ] Tìm hiểu kiến thức về Serverless, về Lambda, ECS, EKS, ECR
 
 ### Meetings & Deadlines
-- [x] Hoàn thành bài lab trước 13:00 để đi chơi :D
-- [x] Ghi chép các bước thực hiện bài lab
+- [ ] Tìm hiểu về các dịch vụ container, AWS Lambda, và AWS Fargate trước 12:00
+- [ ] So sánh giữa các dịch vụ trên trước 15:00
 
 ## 📊 Self Assessment
 
